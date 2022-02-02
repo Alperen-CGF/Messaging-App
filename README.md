@@ -1,7 +1,7 @@
 # Messaging-App
 
 **Uygulamanın Yapılış Amacı:**
-Personeller arası haberleşmeye olanak sağlayan ve iletişim kurabilecekleri bağımsız bir mesajlaşma uygulaması oluşturmak için görevlendirildim. Şirketin birkaç tane mobile uygulaması bulunmasına rağmen mesajlaşma fikrine sahip bir uygulaması bulunmamaktadır.
+Personeller arası haberleşmeye olanak sağlayan ve iletişim kurabilecekleri bağımsız bir mesajlaşma uygulaması oluşturmak.
 
 ![ugulama resimleri](https://github.com/Alperen-CGF/Messaging-App/blob/main/corumgaz/images/Screenshot_1637132996.png)
 ![ugulama resimleri](https://github.com/Alperen-CGF/Messaging-App/blob/main/corumgaz/images/Screenshot_1637133007.png)
