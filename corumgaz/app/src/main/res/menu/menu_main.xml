@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/deneme2"
+        android:title="@string/profile"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/deneme3"
+        android:title="Arkadaşlar"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/deneme"
+        app:showAsAction="never"
+        android:title="@string/çıkışş">
+    </item>
+</menu>

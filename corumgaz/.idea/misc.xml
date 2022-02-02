@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable-v24/layout_bg2.xml" value="0.14375" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/drawable/layout_bg.xml" value="0.2" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/actionbargiris.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/actionbarr.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/activity_ana.xml" value="0.264" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/activity_chat.xml" value="0.264" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/activity_kayit_ol.xml" value="0.2" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/activity_kullanici_profile.xml" value="0.16791044776119404" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/activity_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fire.xml" value="0.1" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment1_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment2_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment3_layout.xml" value="0.16" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_ana.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_ana2.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_arkadaslar.xml" value="0.2" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_fire.xml" value="0.176" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_kullanici_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/fragment_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/friend_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/friend_req_key_List.xml" value="0.128125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/friend_req_key_list.xml" value="0.1" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/menuu.xml" value="0.8" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/message_recieved_layout.xml" value="0.23166023166023167" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/message_sent_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/sohbet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/layout/userlayout.xml" value="0.16" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/menu/adasdad.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/menu/menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/menu/menu2.xml" value="0.1" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/menu/menu_main.xml" value="0.16911764705882354" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/menu/navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/corumgaz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14947916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

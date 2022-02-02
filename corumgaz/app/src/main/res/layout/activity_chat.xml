@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".ChatActivity">
+
+    <LinearLayout
+        android:id="@+id/sıfırbir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/kisisec2"
+            android:layout_width="75dp"
+            android:layout_height="50dp"
+            android:background="@color/design_default_color_secondary_variant"
+            android:scaleType="fitCenter"
+            android:src="@drawable/geriok" />
+
+        <TextView
+            android:id="@+id/chatusername"
+            android:layout_width="336dp"
+            android:layout_height="match_parent"
+            android:background="@color/design_default_color_secondary_variant"
+            android:gravity="center"
+            android:text="isim soyisim"
+            android:textColor="@color/white"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chat_recy"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/sıfırbirbir"
+        android:layout_below="@id/sıfırbir"
+        android:background="@drawable/official" />
+
+    <LinearLayout
+        android:id="@id/sıfırbirbir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/design_default_color_secondary_variant"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <EditText
+            android:id="@+id/sendmessagetext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="6"
+            android:background="@color/white"
+            android:hint="Mesaj"
+            android:inputType="text"
+            android:minHeight="50dp"
+            android:paddingLeft="8dp"
+            android:textStyle="bold" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/sendmessagebutton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:backgroundTint="#487eb0"
+            android:src="@drawable/gonder" />
+
+    </LinearLayout>
+</RelativeLayout>
