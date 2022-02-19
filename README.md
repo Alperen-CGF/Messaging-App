@@ -1,4 +1,4 @@
-# Messaging-App
+# Message-App
 
 **Uygulamanın Yapılış Amacı:**
 Personeller arası haberleşmeye olanak sağlayan ve iletişim kurabilecekleri bağımsız bir mesajlaşma uygulaması oluşturmak.
